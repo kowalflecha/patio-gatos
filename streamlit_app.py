@@ -121,6 +121,6 @@ else:
     st.write("No hay paseos registrados.")
 
 # Botón para reiniciar datos
-if st.button("Reiniciar datos"):
-    eliminar_datos(conn)
-    st.success("Datos reiniciados.")
+#if st.button("Reiniciar datos"):
+#    eliminar_datos(conn)
+#    st.success("Datos reiniciados.")
